@@ -12,7 +12,7 @@ print(5) # ini adalah NUMBER
 # Terdapat beberapa jenis number di Python
 # Diantaranya yang paling populer adalah Integer dan Float
 
-# Integer
+# Integer adalah bilangan Bulat
 print("Ini adalah Integer : ")
 print(1)
 print(2)
@@ -22,7 +22,7 @@ print(1000)
 print(1000000)
 
 
-# Float
+# Float adalah bilangan rasional atau bilangan koma
 print("Ini adalah Float : ")
 print(1.5)
 print(3.14)
