@@ -6,6 +6,9 @@ print("5") # ini adalah TEKS
 
 print(5) # ini adalah NUMBER
 
+# Sekilas tidak terlihat perbedaannya, namun jika TEKS walaupun berbentuk angka, tetapi TEKS tidak dapat dioperasikan menggunakan operasi matematika
+
+
 # Terdapat beberapa jenis number di Python
 # Diantaranya yang paling populer adalah Integer dan Float
 
