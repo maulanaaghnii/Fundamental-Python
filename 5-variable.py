@@ -28,3 +28,6 @@ panjang = 10
 lebar = 5
 luas = panjang * lebar
 print(luas)
+
+# Kesimpulan : 
+# Variable bisa diubah ditengah program 
