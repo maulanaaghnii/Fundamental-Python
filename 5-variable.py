@@ -30,4 +30,4 @@ luas = panjang * lebar
 print(luas)
 
 # Kesimpulan : 
-# Variable bisa diubah ditengah program 
+# Untuk saat ini jenis variable diatas bisa diubah isinya atau nilainya ditengah program  
