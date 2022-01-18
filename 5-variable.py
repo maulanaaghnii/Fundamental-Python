@@ -1,9 +1,9 @@
-#proses memasukan data ke dalam variabel
+# Proses memasukan data ke dalam variabel
 nama = "John Doe"
 #proses mencetak variabel
 print(nama)
 
-#nilai dan tipe data dalam variabel  dapat diubah
+# Nilai dan tipe data dalam variabel  dapat diubah
 umur = 20               #nilai awal
 print(umur)             #mencetak nilai umur
 type(umur)              #mengecek tipe data umur
@@ -18,7 +18,7 @@ umur = 22
 hobi = "Berenang"
 print("Biodata\n", nama, "\n", umur, "\n", hobi) 
  
-#contoh variabel lainya
+# Contoh variabel lainya
 inivariabel = "Halo"
 ini_juga_variabel = "Hai"
 inivariabeljuga = "Hi"
