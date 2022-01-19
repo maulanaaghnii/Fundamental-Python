@@ -7,7 +7,6 @@
 
 print("Nama Saya Budi")
 
-
 # Memasukan String didalam variable 
 nama = "Budi Doremi"
 nama_depan = "Budi"
